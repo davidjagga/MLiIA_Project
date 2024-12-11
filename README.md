@@ -1,4 +1,5 @@
-***This code will perform with far less complications on a Jupyter Lab PyTorch server on Rivanna***
+***This code will perform with far less complications on a Jupyter Lab PyTorch server on Rivanna. Download the project folder and upload the entire folder to rivanna. 
+If an external model is provided move to the folder described below.***
 
 
 # Formatting the Dataset
