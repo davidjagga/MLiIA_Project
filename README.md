@@ -30,7 +30,8 @@ This section explains how to prepare the dataset for training and testing (using
 This section guides you through training the Transmorph model (using `trainTransmorph.ipynb` file).
 
 
-***Pre-trained models are typically stored under the `experiments` folder. However, because of model size only one was included.***
+***Pre-trained models are typically stored under the `experiments` folder. However, because of model size only one was included. 
+If needed you can move model file into this folder and test this model with***
 
 ## Steps:
 1. **Update Data Path**  
